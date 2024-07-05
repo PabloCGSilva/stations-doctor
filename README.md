@@ -82,7 +82,10 @@ stations-doctor
 └─ tsconfig.json
 
 ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> 32d3dce6be9e608aaad36b2db8361b7d46006a9d
 ```
 stations-doctor
 ├─ database.sqlite
@@ -163,6 +166,7 @@ stations-doctor
 │     └─ patientRoutes.ts
 └─ tsconfig.json
 
+<<<<<<< HEAD
 ```
 
 ```
@@ -242,3 +246,6 @@ stations-doctor
 └─ tsconfig.json
 
 ```
+=======
+```
+>>>>>>> 32d3dce6be9e608aaad36b2db8361b7d46006a9d
