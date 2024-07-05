@@ -8,8 +8,6 @@ This project aims to streamline the appointment scheduling process for patients 
 
 * Frontend: React.js
 * Backend: Node.js, Express.js
-* Database: SQLite (development), PostgreSQL (production)
-* Testing: Jest, Supertest
 * Others: TypeScript
 
 ## Bugs and Issues
